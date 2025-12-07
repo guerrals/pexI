@@ -1,0 +1,13 @@
+# Ficheiro de segredos e configurações de ambiente
+.env
+
+# Pasta do ambiente virtual
+venv/
+pexI_py311/
+
+# Ficheiros de cache do Python
+__pycache__/
+*.pyc
+
+# Ficheiros de cache do sistema
+.DS_Store
